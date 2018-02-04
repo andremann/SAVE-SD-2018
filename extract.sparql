@@ -1,7 +1,7 @@
 # ANOMALIES :
 # Author multiple affiliation, DOI '10.1007/978-3-540-68234-9_5'
 # Non-existing organization in GRID, DOI '10.1007/978-3-540-30103-5_26'
-# Pending affiliations, DOI '10.1007/978-0-387-35503-0_29' (RDF:label could be used)
+# Pending affiliations, DOI '10.1007/978-0-387-35503-0_29' (rdf:label could be used)
 # No author-affiliation, DOI '10.1007/978-3-540-36715-4_41'
 # No conf entity, DOI '10.1007/978-3-540-76298-0_61'
 # No book or book_edition, DOI '10.1007/978-3-540-72667-8_12'
